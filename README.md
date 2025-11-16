@@ -27,6 +27,5 @@ renamepkg --from internal/server/di --to internal/server/difish
 - Renames the directory
 - Updates package declarations
 - Updates all imports (keeps original package name as alias)
-- Use `--force` to overwrite existing directories
 
 That's it. Simple, fast, regex-powered. 🚀

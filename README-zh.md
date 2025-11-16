@@ -27,6 +27,5 @@ renamepkg --from internal/server/di --to internal/server/difish
 - 重命名目录
 - 更新包声明
 - 更新所有导入（保留原始包名作为别名）
-- 使用 `--force` 覆盖现有目录
 
 就是这样。简单、快速、基于正则表达式。🚀
