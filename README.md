@@ -4,6 +4,12 @@ A simple tool to rename Go packages and modules. No AST, just regex magic ✨
 
 English | [中文](README-zh.md)
 
+## Install
+
+```sh
+go install github.com/ymzuiku/renamepkg/cmd/renamepkg@latest
+```
+
 ## Rename Module
 
 Change your entire module path in one go:
